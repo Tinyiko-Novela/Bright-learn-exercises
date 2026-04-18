@@ -14,3 +14,9 @@ It dives deep into case statements.
 Exercise 4.
 It asseses on advanced SQL clauses like joins.
 It is also a combination to all the clauses, to demostrate how to build a code and solve real world problems.
+
+Exercise 5.
+Null functions-how to filter and handle null values
+
+Exercise 6.
+Date function- how to add, substract and extract on given dates
