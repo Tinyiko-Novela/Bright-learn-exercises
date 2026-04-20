@@ -1,6 +1,6 @@
 # Bright-learn-exercises
 I have recently joined Bright Learn, an online learning platform with expert tutors that seek to equip students with skills that are relevent to the job markert
-As part of the 2026 data science cohort, I have been assigned 4 exercises to assess the SQL skill that I have learned over the past two months.
+As part of the 2026 data science cohort, I have been assigned 6 exercises to assess the SQL skill that I have learned over the past two months.
 
 Exercise 1
 This exercise is introduction to basic syntax.
